@@ -1,0 +1,1 @@
+This project is a universal rental management system where owners can share the items they want to rent, and users can easily find and rent those items. It is a dynamic system that allows everyone to either rent or share their items. The system is built using Python Flask, MySQL, React, and Tailwind CSS.
